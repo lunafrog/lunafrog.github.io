@@ -1,0 +1,13 @@
+h1{
+    width: 400px;
+    height: 60px;
+    /*ｈ１の文字色=赤*/
+    color:#ff0000;
+    background-color: cornsilk;
+}
+h3{
+    background-color: rgb(208, 226, 43);
+}
+    .selected{
+        color: red
+    }
